@@ -1,11 +1,29 @@
-body {
+* {
     margin: 0;
-}
-.header {
-    border: 2px solid #000000;
-    background-color: #000000;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-#hero-home {
-    background-image: url(hero-img2.png);
+html, body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.7em;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    padding-bottom: 20px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+#navbar {
+    background: black;
+    color: white;
+    overflow: auto;
 }
