@@ -4,26 +4,3 @@
     box-sizing: border-box;
 }
 
-html, body {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.7em;
-}
-
-a {
-    color: white;
-    text-decoration: none;
-}
-
-h1 {
-    padding-bottom: 20px;
-}
-
-p {
-    margin: 10px 0;
-}
-
-#navbar {
-    background: black;
-    color: white;
-    overflow: auto;
-}
